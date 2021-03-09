@@ -1,0 +1,57 @@
+.header {
+    display: flex;
+   background: #222;
+   color: white;
+   height: 50px;
+   width: 100%;
+   align-items: center;
+   justify-content: space-between;
+   position: fixed;
+   top: 0
+ }
+ 
+ .header a {
+   height: 30px;
+   width: 100px;
+   text-align: center;
+ }
+
+ .main {
+     margin-top: 80px;
+ }
+
+ #linkTraing{
+    margin-right: 300px;
+    color:white;
+  }
+  
+  #linkBio{
+    margin-left: 300px;
+    color: white;
+  }
+
+  #linkedin {
+      color: white;
+  }
+  #linkExperience {
+      color: white;
+  }
+
+  #linkPersonal{
+    color: white;
+  }
+
+.main {
+    margin-top: 90px;
+}
+
+.title {
+    margin-top:100px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+.pdf {
+    margin-top: 50px;
+    text-align: center;
+  }
